@@ -1,0 +1,1 @@
+const max=10;for(let o=0;o<max;o++)console.log(o);
