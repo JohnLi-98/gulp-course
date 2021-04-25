@@ -1,3 +1,3 @@
-const myName = "John";
+const myName = "Joh";
 
 document.write("Hello " + myName + "!");
